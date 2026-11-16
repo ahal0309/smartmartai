@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "problem-image",
+      "description": "A well-lit aisle in a modern supermarket.",
+      "imageUrl": "https://images.unsplash.com/photo-1542831371-d531d36971e6?auto=format&fit=crop&w=1280&q=80",
+      "imageHint": "supermarket aisle"
+    },
+    {
+      "id": "customer-avatar",
+      "description": "A happy customer using their phone in a supermarket.",
+      "imageUrl": "https://picsum.photos/seed/customer/300/300",
+      "imageHint": "happy customer"
+    },
+    {
+      "id": "phone-image",
+      "description": "A smartphone displaying an optimized shopping route through a supermarket.",
+      "imageUrl": "https://picsum.photos/seed/phone/150/300",
+      "imageHint": "shopping route"
+    },
+    {
+      "id": "hero-background",
+      "description": "A dark, abstract technology background.",
+      "imageUrl": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1280&q=60",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "login-illustration",
+      "description": "Isometric illustration of online grocery shopping with a woman pushing a shopping cart, smartphone displaying a digital storefront, receipt, and payment elements.",
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "imageHint": "online grocery shopping experience"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="1280" height="480">
+  <!-- Grid size: 20 cols x 12 rows, cell size = 40px -->
+  <defs>
+    <style>
+      .label { font: 12px sans-serif; fill: #0f2a6b; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect x="0" y="0" width="1280" height="480" fill="#ffffff" />
+
+  <!-- Aisle blocks (shelves): A..J left-to-right, equal size -->
+  <!-- Params: left margin 40, width 80, gap 40, y 80, h 320 -->
+  <rect x="40" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="60" y="70" class="label">A</text>
+
+  <rect x="160" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="180" y="70" class="label">B</text>
+
+  <rect x="280" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="300" y="70" class="label">C</text>
+
+  <rect x="400" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="420" y="70" class="label">D</text>
+
+  <rect x="520" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="540" y="70" class="label">E</text>
+
+  <rect x="640" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="660" y="70" class="label">F</text>
+
+  <rect x="760" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="780" y="70" class="label">G</text>
+
+  <rect x="880" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="900" y="70" class="label">H</text>
+
+  <rect x="1000" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="1020" y="70" class="label">I</text>
+
+  <rect x="1120" y="80" width="80" height="320" fill="#eaf2fb" stroke="#1A408D" />
+  <text x="1140" y="70" class="label">J</text>
+
+  
+
+  <!-- Entrance and checkout -->
+  <circle cx="40" cy="440" r="10" fill="#28a745" />
+  <text x="20" y="465" class="label">Entrance</text>
+
+  <rect x="1200" y="430" width="60" height="40" fill="#ffd54d" stroke="#1A408D" />
+  <text x="1200" y="425" class="label">Checkout</text>
+
+  <!-- Walkways are implicit white areas between shelves -->
+</svg>
