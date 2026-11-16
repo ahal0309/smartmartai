@@ -35,8 +35,8 @@ Sources:
 
 ### Check API Key
 ```bash
-# Verify .env.local has:
-GEMINI_API_KEY=AIzaSyCSUXy8-f52HS6GuF4wkV6zoZphCQnJixA
+# Verify `.env.local` has a valid Gemini API key:
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 ### Check Browser Console
